@@ -1,0 +1,54 @@
+body {
+
+}
+
+.section {
+  padding: 0 250px;
+}
+
+#section-1 {
+  background-color: #1F2937;
+}
+
+.navbar-flex {
+  display: flex;
+  border: 2px solid;
+}
+
+.navbar-flex h3 {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.nav-flex-item {
+ margin-block-start: 1em;
+ margin-block-end: 1em;
+}
+
+#split-right {
+  margin-left: auto;
+}
+
+.section-1-flex {
+  display: flex;
+  border: 2px solid black;
+}
+
+.section-1-flex-item {
+
+}
+
+.secondary {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+#main-header {
+  font-size: 48px;
+  font-weight: 1000;
+  color: #F9FAF8;
+}
+
+button {
+  background-color: #3882F6;
+}
